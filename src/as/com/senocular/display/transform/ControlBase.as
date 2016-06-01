@@ -364,6 +364,7 @@ package com.senocular.display.transform {
 				}
 				
 				_tool.preTransform.scale(sx, sy);
+				return;
 			}
 		}
 		
